@@ -1,0 +1,8 @@
+{
+    "name": "fs",
+    "description": "Türkçe",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/fs/Cloudstream-Turkce-Eklentiler/main/plugins.json"
+    ]
+}
